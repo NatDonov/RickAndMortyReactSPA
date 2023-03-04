@@ -1,0 +1,14 @@
+.Footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-weight: 900;
+
+}
+
+.Footer p{
+    /* -webkit-text-stroke: 0.7px rgb(252, 245, 245);  */
+    color: rgba(169, 228, 203, 0.667);
+
+
+}

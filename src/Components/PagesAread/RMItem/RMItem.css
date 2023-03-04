@@ -1,0 +1,25 @@
+.RMItem {
+	
+}
+
+.card {
+    display:inline-flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: flex-start;
+    background-color: rgb(204, 191, 191);
+    border: 3px solid darkblue;
+    margin: 10px;
+    width: 150px;
+    height: 250px;
+}
+
+.RMItem img{
+    width: 100px;
+    height: auto;
+    margin: 20px;
+}
+
+.RMItem span{
+    font-weight: 600;
+}
